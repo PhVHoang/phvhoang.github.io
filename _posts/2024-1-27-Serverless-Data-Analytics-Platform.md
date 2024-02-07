@@ -1,4 +1,4 @@
-## I'm working on building a serverless data analytics platform
+## Building a serverless data analytics platform
 
 Stay tuned. I'll update the progress on the upcoming blog posts
 
