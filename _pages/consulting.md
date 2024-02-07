@@ -8,4 +8,4 @@ permalink: /consulting/
 - Cloud Native Applications
 
 ## Contact
-Reach out via email: phamhoang.hedspi@gmail.com
+- Reach out via email: phamhoang.hedspi@gmail.com
