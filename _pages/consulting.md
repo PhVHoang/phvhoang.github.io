@@ -4,7 +4,7 @@ title: Consulting
 permalink: /consulting/
 ---
 ## Main areas of expertise
-- Date Engineering & Data Platform Engineering 
+- Data Engineering & Data Platform Engineering 
 - Cloud Native Applications
 
 ## Contact
