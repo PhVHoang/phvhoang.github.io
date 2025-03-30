@@ -6,7 +6,7 @@ permalink: /about/
 
 Greetings, I'm [Hoang Pham](https://www.linkedin.com/in/hoang-pham-770010128/), a software and data platform engineer.
 
-Originally from Vietnam, I've had professional experience in Japan and Singapore before returning to Vietnam in mid-2023. Presently Senior Technical Lead and Lead Data Engineer at HCL/ANZ Bank. Previously Data Platform Engineer at Shopee, Rakuten & Co-Founder of Amusingo - an EdTech startup.
+Originally from Vietnam, I've had professional experience in Japan and Singapore before returning to Vietnam in mid-2023. Presently Technical Lead & Engineering Manager at ANZ Digital Bank. Previously Data Platform Engineer at Shopee, Rakuten & Co-Founder of Amusingo - an EdTech startup.
 
 My background includes constructing both monolith and large-scale microservices, particularly focusing on Data Platform, Data Lakehouse, and Cloud Native Applications.
 
